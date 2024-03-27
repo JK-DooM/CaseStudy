@@ -1,0 +1,6 @@
+com.ecommerceapp.dao
+com.ecommerceapp.exception
+com.ecommerceapp.main
+com.ecommerceapp.model
+com.ecommerceapp.testcases
+com.ecommerceapp.util

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ecommerceapp.dao"},{"l":"com.ecommerceapp.exception"},{"l":"com.ecommerceapp.main"},{"l":"com.ecommerceapp.model"},{"l":"com.ecommerceapp.testcases"},{"l":"com.ecommerceapp.util"}];updateSearchResults();
